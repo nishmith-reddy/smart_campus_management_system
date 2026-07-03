@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Management System",
+  "description": "An interactive, highly visual, and comprehensive campus portal featuring role-based dashboards, academic trackers, grade books, fee management, and campus notices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
